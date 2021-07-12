@@ -1,0 +1,13 @@
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\bin\Debug\netcoreapp3.1\OOPwithCsharp.exe
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\bin\Debug\netcoreapp3.1\OOPwithCsharp.deps.json
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\bin\Debug\netcoreapp3.1\OOPwithCsharp.runtimeconfig.json
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\bin\Debug\netcoreapp3.1\OOPwithCsharp.runtimeconfig.dev.json
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\bin\Debug\netcoreapp3.1\OOPwithCsharp.dll
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\bin\Debug\netcoreapp3.1\OOPwithCsharp.pdb
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\obj\Debug\netcoreapp3.1\OOPwithCsharp.csproj.AssemblyReference.cache
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\obj\Debug\netcoreapp3.1\OOPwithCsharp.AssemblyInfoInputs.cache
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\obj\Debug\netcoreapp3.1\OOPwithCsharp.AssemblyInfo.cs
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\obj\Debug\netcoreapp3.1\OOPwithCsharp.csproj.CoreCompileInputs.cache
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\obj\Debug\netcoreapp3.1\OOPwithCsharp.dll
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\obj\Debug\netcoreapp3.1\OOPwithCsharp.pdb
+D:\DOTNET\OOPwithCsharp\OOPwithCsharp\obj\Debug\netcoreapp3.1\OOPwithCsharp.genruntimeconfig.cache

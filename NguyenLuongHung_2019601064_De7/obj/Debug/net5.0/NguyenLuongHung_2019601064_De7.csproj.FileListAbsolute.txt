@@ -1,0 +1,16 @@
+D:\C#\NguyenLuongHung_2019601064_De7\bin\Debug\net5.0\NguyenLuongHung_2019601064_De7.exe
+D:\C#\NguyenLuongHung_2019601064_De7\bin\Debug\net5.0\NguyenLuongHung_2019601064_De7.deps.json
+D:\C#\NguyenLuongHung_2019601064_De7\bin\Debug\net5.0\NguyenLuongHung_2019601064_De7.runtimeconfig.json
+D:\C#\NguyenLuongHung_2019601064_De7\bin\Debug\net5.0\NguyenLuongHung_2019601064_De7.runtimeconfig.dev.json
+D:\C#\NguyenLuongHung_2019601064_De7\bin\Debug\net5.0\NguyenLuongHung_2019601064_De7.dll
+D:\C#\NguyenLuongHung_2019601064_De7\bin\Debug\net5.0\ref\NguyenLuongHung_2019601064_De7.dll
+D:\C#\NguyenLuongHung_2019601064_De7\bin\Debug\net5.0\NguyenLuongHung_2019601064_De7.pdb
+D:\C#\NguyenLuongHung_2019601064_De7\obj\Debug\net5.0\NguyenLuongHung_2019601064_De7.csproj.AssemblyReference.cache
+D:\C#\NguyenLuongHung_2019601064_De7\obj\Debug\net5.0\NguyenLuongHung_2019601064_De7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NguyenLuongHung_2019601064_De7\obj\Debug\net5.0\NguyenLuongHung_2019601064_De7.AssemblyInfoInputs.cache
+D:\C#\NguyenLuongHung_2019601064_De7\obj\Debug\net5.0\NguyenLuongHung_2019601064_De7.AssemblyInfo.cs
+D:\C#\NguyenLuongHung_2019601064_De7\obj\Debug\net5.0\NguyenLuongHung_2019601064_De7.csproj.CoreCompileInputs.cache
+D:\C#\NguyenLuongHung_2019601064_De7\obj\Debug\net5.0\NguyenLuongHung_2019601064_De7.dll
+D:\C#\NguyenLuongHung_2019601064_De7\obj\Debug\net5.0\ref\NguyenLuongHung_2019601064_De7.dll
+D:\C#\NguyenLuongHung_2019601064_De7\obj\Debug\net5.0\NguyenLuongHung_2019601064_De7.pdb
+D:\C#\NguyenLuongHung_2019601064_De7\obj\Debug\net5.0\NguyenLuongHung_2019601064_De7.genruntimeconfig.cache

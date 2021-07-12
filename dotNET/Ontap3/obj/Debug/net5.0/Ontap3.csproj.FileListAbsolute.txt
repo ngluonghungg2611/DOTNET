@@ -1,0 +1,5 @@
+D:\DOTNET\Ontap3\obj\Debug\net5.0\Ontap3.csproj.AssemblyReference.cache
+D:\DOTNET\Ontap3\obj\Debug\net5.0\Ontap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\Ontap3\obj\Debug\net5.0\Ontap3.AssemblyInfoInputs.cache
+D:\DOTNET\Ontap3\obj\Debug\net5.0\Ontap3.AssemblyInfo.cs
+D:\DOTNET\Ontap3\obj\Debug\net5.0\Ontap3.csproj.CoreCompileInputs.cache

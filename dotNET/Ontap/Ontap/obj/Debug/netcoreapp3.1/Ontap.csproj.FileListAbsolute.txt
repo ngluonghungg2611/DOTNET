@@ -1,0 +1,13 @@
+D:\DOTNET\Ontap\Ontap\bin\Debug\netcoreapp3.1\Ontap.exe
+D:\DOTNET\Ontap\Ontap\bin\Debug\netcoreapp3.1\Ontap.deps.json
+D:\DOTNET\Ontap\Ontap\bin\Debug\netcoreapp3.1\Ontap.runtimeconfig.json
+D:\DOTNET\Ontap\Ontap\bin\Debug\netcoreapp3.1\Ontap.runtimeconfig.dev.json
+D:\DOTNET\Ontap\Ontap\bin\Debug\netcoreapp3.1\Ontap.dll
+D:\DOTNET\Ontap\Ontap\bin\Debug\netcoreapp3.1\Ontap.pdb
+D:\DOTNET\Ontap\Ontap\obj\Debug\netcoreapp3.1\Ontap.csproj.AssemblyReference.cache
+D:\DOTNET\Ontap\Ontap\obj\Debug\netcoreapp3.1\Ontap.AssemblyInfoInputs.cache
+D:\DOTNET\Ontap\Ontap\obj\Debug\netcoreapp3.1\Ontap.AssemblyInfo.cs
+D:\DOTNET\Ontap\Ontap\obj\Debug\netcoreapp3.1\Ontap.csproj.CoreCompileInputs.cache
+D:\DOTNET\Ontap\Ontap\obj\Debug\netcoreapp3.1\Ontap.dll
+D:\DOTNET\Ontap\Ontap\obj\Debug\netcoreapp3.1\Ontap.pdb
+D:\DOTNET\Ontap\Ontap\obj\Debug\netcoreapp3.1\Ontap.genruntimeconfig.cache

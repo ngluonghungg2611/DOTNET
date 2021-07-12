@@ -1,0 +1,16 @@
+D:\C#\NguyenLuongHung_2019601064\bin\Debug\net5.0\NguyenLuongHung_2019601064.exe
+D:\C#\NguyenLuongHung_2019601064\bin\Debug\net5.0\NguyenLuongHung_2019601064.deps.json
+D:\C#\NguyenLuongHung_2019601064\bin\Debug\net5.0\NguyenLuongHung_2019601064.runtimeconfig.json
+D:\C#\NguyenLuongHung_2019601064\bin\Debug\net5.0\NguyenLuongHung_2019601064.runtimeconfig.dev.json
+D:\C#\NguyenLuongHung_2019601064\bin\Debug\net5.0\NguyenLuongHung_2019601064.dll
+D:\C#\NguyenLuongHung_2019601064\bin\Debug\net5.0\ref\NguyenLuongHung_2019601064.dll
+D:\C#\NguyenLuongHung_2019601064\bin\Debug\net5.0\NguyenLuongHung_2019601064.pdb
+D:\C#\NguyenLuongHung_2019601064\obj\Debug\net5.0\NguyenLuongHung_2019601064.csproj.AssemblyReference.cache
+D:\C#\NguyenLuongHung_2019601064\obj\Debug\net5.0\NguyenLuongHung_2019601064.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NguyenLuongHung_2019601064\obj\Debug\net5.0\NguyenLuongHung_2019601064.AssemblyInfoInputs.cache
+D:\C#\NguyenLuongHung_2019601064\obj\Debug\net5.0\NguyenLuongHung_2019601064.AssemblyInfo.cs
+D:\C#\NguyenLuongHung_2019601064\obj\Debug\net5.0\NguyenLuongHung_2019601064.csproj.CoreCompileInputs.cache
+D:\C#\NguyenLuongHung_2019601064\obj\Debug\net5.0\NguyenLuongHung_2019601064.dll
+D:\C#\NguyenLuongHung_2019601064\obj\Debug\net5.0\ref\NguyenLuongHung_2019601064.dll
+D:\C#\NguyenLuongHung_2019601064\obj\Debug\net5.0\NguyenLuongHung_2019601064.pdb
+D:\C#\NguyenLuongHung_2019601064\obj\Debug\net5.0\NguyenLuongHung_2019601064.genruntimeconfig.cache

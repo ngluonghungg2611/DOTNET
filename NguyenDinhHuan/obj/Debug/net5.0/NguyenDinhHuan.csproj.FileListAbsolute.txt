@@ -1,0 +1,16 @@
+D:\Learning\C#\Learn\NguyenDinhHuan\bin\Debug\net5.0\NguyenDinhHuan.exe
+D:\Learning\C#\Learn\NguyenDinhHuan\bin\Debug\net5.0\NguyenDinhHuan.deps.json
+D:\Learning\C#\Learn\NguyenDinhHuan\bin\Debug\net5.0\NguyenDinhHuan.runtimeconfig.json
+D:\Learning\C#\Learn\NguyenDinhHuan\bin\Debug\net5.0\NguyenDinhHuan.runtimeconfig.dev.json
+D:\Learning\C#\Learn\NguyenDinhHuan\bin\Debug\net5.0\NguyenDinhHuan.dll
+D:\Learning\C#\Learn\NguyenDinhHuan\bin\Debug\net5.0\ref\NguyenDinhHuan.dll
+D:\Learning\C#\Learn\NguyenDinhHuan\bin\Debug\net5.0\NguyenDinhHuan.pdb
+D:\Learning\C#\Learn\NguyenDinhHuan\obj\Debug\net5.0\NguyenDinhHuan.csproj.AssemblyReference.cache
+D:\Learning\C#\Learn\NguyenDinhHuan\obj\Debug\net5.0\NguyenDinhHuan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\Learn\NguyenDinhHuan\obj\Debug\net5.0\NguyenDinhHuan.AssemblyInfoInputs.cache
+D:\Learning\C#\Learn\NguyenDinhHuan\obj\Debug\net5.0\NguyenDinhHuan.AssemblyInfo.cs
+D:\Learning\C#\Learn\NguyenDinhHuan\obj\Debug\net5.0\NguyenDinhHuan.csproj.CoreCompileInputs.cache
+D:\Learning\C#\Learn\NguyenDinhHuan\obj\Debug\net5.0\NguyenDinhHuan.dll
+D:\Learning\C#\Learn\NguyenDinhHuan\obj\Debug\net5.0\ref\NguyenDinhHuan.dll
+D:\Learning\C#\Learn\NguyenDinhHuan\obj\Debug\net5.0\NguyenDinhHuan.pdb
+D:\Learning\C#\Learn\NguyenDinhHuan\obj\Debug\net5.0\NguyenDinhHuan.genruntimeconfig.cache

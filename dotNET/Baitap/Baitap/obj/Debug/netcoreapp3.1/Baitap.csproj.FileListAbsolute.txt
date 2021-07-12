@@ -1,0 +1,13 @@
+D:\DOTNET\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.exe
+D:\DOTNET\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.deps.json
+D:\DOTNET\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.runtimeconfig.json
+D:\DOTNET\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.runtimeconfig.dev.json
+D:\DOTNET\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.dll
+D:\DOTNET\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.pdb
+D:\DOTNET\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.AssemblyInfoInputs.cache
+D:\DOTNET\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.AssemblyInfo.cs
+D:\DOTNET\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.csproj.CoreCompileInputs.cache
+D:\DOTNET\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.dll
+D:\DOTNET\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.pdb
+D:\DOTNET\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.genruntimeconfig.cache
+D:\DOTNET\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.csproj.AssemblyReference.cache

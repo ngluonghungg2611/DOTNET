@@ -1,0 +1,6 @@
+D:\HocOnline_2021\C#\LuongHung\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.CoreCompileInputs.cache
+D:\HocOnline_2021\C#\LuongHung\BaiKiemTra\BaiKiemTra\bin\Debug\BaiKiemTra.exe.config
+D:\HocOnline_2021\C#\LuongHung\BaiKiemTra\BaiKiemTra\bin\Debug\BaiKiemTra.exe
+D:\HocOnline_2021\C#\LuongHung\BaiKiemTra\BaiKiemTra\bin\Debug\BaiKiemTra.pdb
+D:\HocOnline_2021\C#\LuongHung\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.exe
+D:\HocOnline_2021\C#\LuongHung\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.pdb
